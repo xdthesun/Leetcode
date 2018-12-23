@@ -1,0 +1,37 @@
+# LeetCode
+1.数组拆分I：<br>
+ [ArrayPartition](https://leetcode-cn.com/problems/array-partition-i/description/)<br>
+2. Excel表列序号:<br>
+[ExcelColumeNumber](https://leetcode-cn.com/problems/excel-sheet-column-number/description/)<br>
+3.宝石与石头：<br>
+[JewelsandStones](https://leetcode-cn.com/problems/jewels-and-stones/description/)<br>
+4.判断路线成圈:<br>
+[JudgeRouteCircls](https://leetcode-cn.com/problems/judge-route-circle/description/)<br>
+5.汉明距离:<br>
+[HammingDistance](https://leetcode-cn.com/problems/hamming-distance/description/)<br>
+6.数字的补数:<br>
+[FindComplement](https://leetcode-cn.com/problems/number-complement/description/)<br>
+7.唯一莫尔斯密码词:<br>
+[UniqueMorseRepresentations](https://leetcode-cn.com/problems/unique-morse-code-words/description/)<br>
+8.键盘行:<br>
+[KeyboardRow](https://leetcode-cn.com/problems/keyboard-row/description/)<br>
+9.自除数:<br>
+[SelfDividingNumbers](https://leetcode-cn.com/problems/self-dividing-numbers/description/)<br>
+10.反转字符串:<br>
+[ReverseString](https://leetcode-cn.com/problems/reverse-string/description/)<br>
+11.Nim游戏:<br>
+[NimGame](https://leetcode-cn.com/problems/nim-game/description/)<br>
+12.翻转字符串中的单词III：<br>
+[ReverseWordsInStringIII](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/description/)<br>
+13.二叉树的最大深度：<br>
+[MaxdeepthofTree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/)<br>
+14.两整数之和:<br>
+[SumoftoInteger](https://leetcode-cn.com/problems/sum-of-two-integers/description/)<br>
+15.搜索插入位:<br>
+[SearchInsertPosition](https://leetcode-cn.com/problems/search-insert-position/description/)<br>
+16.删除排序数组中的重复项:<br>
+[RemoveDuplicatesFromSortedArray](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/)<br>
+17.最长回文子串：<br>
+[LongestCommonPrefix](https://leetcode-cn.com/problems/longest-palindromic-substring/description/)<br>
+18.有效括号：<br>
+[ValidParentheses](https://leetcode-cn.com/problems/valid-parentheses/description/)<br>
